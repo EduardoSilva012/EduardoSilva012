@@ -1,4 +1,4 @@
-### Olá! Sou o Eduardo Silva, Front-End Developer e apaixonado por tecnologia! 
+### Olá! Sou o Eduardo Silva, Full-stack Developer e apaixonado por tecnologia! 
 
 - 🎓 Análise e Desenvolvimento de Sistemas.
 - 📚 Pós-graduando em Engenharia de Software.
