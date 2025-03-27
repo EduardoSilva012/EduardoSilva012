@@ -1,7 +1,8 @@
 ### Olá! Sou o Eduardo Silva, Front-End Developer e apaixonado por tecnologia! 
 
-- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
-- 📚 Estudando Javascript, HTML e CSS.
+- 🎓 Análise e Desenvolvimento de Sistemas.
+- 📚 Pós-graduando em Engenharia de Software.
+- 🔰 Full-stack Developer.
 
 <hr>
 
@@ -27,12 +28,14 @@
 <img align="center" alt="vite" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png">
     
 <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
-   
-<img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
-   
-<img align="center" alt="node_js" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
 
 <img align="center" alt="spring_boot" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
+
+<img align="center" alt="node_js" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
+
+<img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png">
+   
+<img align="center" alt="postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
    
 </div>
 
