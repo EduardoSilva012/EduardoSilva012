@@ -49,10 +49,10 @@
 
 <div>
     
-   [![card](https://github-readme-stats.vercel.app/api?username=EduardoSilva012&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+   [![card](https://github-readme-stats.vercel.app/api?username=EduardoSilva012&theme=merko&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-   [![EduardoSilva012](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva012&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+   [![EduardoSilva012](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoSilva012&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
  
 </div>
 
