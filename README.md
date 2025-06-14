@@ -1,7 +1,7 @@
 ### Olá! Sou o Eduardo Silva, Full-stack Developer e apaixonado por tecnologia! 
 
-- 🎓 Análise e Desenvolvimento de Sistemas.
 - 📚 Pós-graduando em Engenharia de Software.
+- 🎓 Análise e Desenvolvimento de Sistemas.
 - 🔰 Full-stack Developer.
 
 <hr>
